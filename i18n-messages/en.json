@@ -1,0 +1,2304 @@
+[
+	{
+		"id": "Article",
+		"defaultMessage": "Article",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/articles/[id]/[[...slug]].tsx#149#39#149#59"
+			}
+		]
+	},
+	{
+		"id": "Browse Civitai Articles, featuring AI-generated images along with prompts and resources used for their creation, showcasing the creativity of our talented community.",
+		"defaultMessage": "Browse Civitai Articles, featuring AI-generated images along with prompts and resources used for their creation, showcasing the creativity of our talented community.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/articles/index.tsx#51#8#51#187"
+			}
+		]
+	},
+	{
+		"id": "Civitai + Discord = ❤️",
+		"defaultMessage": "Civitai + Discord = ❤️",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/discord/link-role.tsx#75#69#77#12"
+			}
+		]
+	},
+	{
+		"id": "Browse the Civitai Image Gallery, featuring AI-generated images along with prompts and resources used for their creation, showcasing the creativity of our talented community.",
+		"defaultMessage": "Browse the Civitai Image Gallery, featuring AI-generated images along with prompts and resources used for their creation, showcasing the creativity of our talented community.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/images/index.tsx#29#8#29#196"
+			}
+		]
+	},
+	{
+		"id": "Civitai is a platform for Stable Diffusion AI Art models. Browse a collection of thousands of models from a growing number of creators. Join an engaged community in reviewing models and sharing images with prompts to get you started.",
+		"defaultMessage": "Civitai is a platform for Stable Diffusion AI Art models. Browse a collection of thousands of models from a growing number of creators. Join an engaged community in reviewing models and sharing images with prompts to get you started.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/index.tsx#39#8#39#255"
+			}
+		]
+	},
+	{
+		"id": "Models by",
+		"defaultMessage": "Models by",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/index.tsx#47#62#47#72"
+			}
+		]
+	},
+	{
+		"id": "Your Liked Models",
+		"defaultMessage": "Your Liked Models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/index.tsx#48#31#48#48"
+			}
+		]
+	},
+	{
+		"id": "Your Hidden Models",
+		"defaultMessage": "Your Hidden Models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/index.tsx#49#28#49#46"
+			}
+		]
+	},
+	{
+		"id": "Clear Search",
+		"defaultMessage": "Clear Search",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/index.tsx#75#100#77#22"
+			}
+		]
+	},
+	{
+		"id": "Welcome to Civitai, sign in with",
+		"defaultMessage": "Welcome to Civitai, sign in with",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/login.tsx#39#39#41#10"
+			}
+		]
+	},
+	{
+		"id": "Or",
+		"defaultMessage": "Or",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/login.tsx#57#21#57#31"
+			}
+		]
+	},
+	{
+		"id": "Login Error",
+		"defaultMessage": "Login Error",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/login.tsx#63#14#63#33"
+			}
+		]
+	},
+	{
+		"id": "Successfully deleted the model",
+		"defaultMessage": "Successfully deleted the model",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#203#8#203#47"
+			}
+		]
+	},
+	{
+		"id": "Your model has been deleted",
+		"defaultMessage": "Your model has been deleted",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#204#8#204#46"
+			}
+		]
+	},
+	{
+		"id": "Could not delete model",
+		"defaultMessage": "Could not delete model",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#211#8#211#39"
+			}
+		]
+	},
+	{
+		"id": "An unexpected error occurred, please try again",
+		"defaultMessage": "An unexpected error occurred, please try again",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#212#8#212#64"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#320#8#320#64"
+			}
+		]
+	},
+	{
+		"id": "Delete Model",
+		"defaultMessage": "Delete Model",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#220#6#220#27"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#225#16#225#39"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#566#25#568#24"
+			}
+		]
+	},
+	{
+		"id": "No, don't delete it",
+		"defaultMessage": "No, don't delete it",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#225#41#225#70"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#332#43#332#72"
+			}
+		]
+	},
+	{
+		"id": "Unable to delete version",
+		"defaultMessage": "Unable to delete version",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#319#8#319#41"
+			}
+		]
+	},
+	{
+		"id": "Delete Version",
+		"defaultMessage": "Delete Version",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#328#6#328#29"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#332#16#332#41"
+			}
+		]
+	},
+	{
+		"id": "Are you sure you want to delete this version? This action is destructive and cannot be reverted.",
+		"defaultMessage": "Are you sure you want to delete this version? This action is destructive and cannot be reverted.",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#329#6#330#106"
+			}
+		]
+	},
+	{
+		"id": "Unable to change mode",
+		"defaultMessage": "Unable to change mode",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#358#12#358#42"
+			}
+		]
+	},
+	{
+		"id": "Model",
+		"defaultMessage": "Model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#451#37#451#55"
+			}
+		]
+	},
+	{
+		"id": "Unpublish",
+		"defaultMessage": "Unpublish",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#526#23#528#22"
+			}
+		]
+	},
+	{
+		"id": "Restore",
+		"defaultMessage": "Restore",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#536#23#538#22"
+			}
+		]
+	},
+	{
+		"id": "Unpublish as Violation",
+		"defaultMessage": "Unpublish as Violation",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#547#27#549#26"
+			}
+		]
+	},
+	{
+		"id": "Permanently Delete Model",
+		"defaultMessage": "Permanently Delete Model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#555#25#557#24"
+			}
+		]
+	},
+	{
+		"id": "Edit Model",
+		"defaultMessage": "Edit Model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#572#25#574#24"
+			}
+		]
+	},
+	{
+		"id": "Archive",
+		"defaultMessage": "Archive",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#580#29#582#28"
+			}
+		]
+	},
+	{
+		"id": "Take Down",
+		"defaultMessage": "Take Down",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#587#31#589#30"
+			}
+		]
+	},
+	{
+		"id": "Bring Back",
+		"defaultMessage": "Bring Back",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#597#27#599#26"
+			}
+		]
+	},
+	{
+		"id": "Report",
+		"defaultMessage": "Report",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#613#25#615#24"
+			}
+		]
+	},
+	{
+		"id": "Hide content with these tags",
+		"defaultMessage": "Hide content with these tags",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#625#25#627#24"
+			}
+		]
+	},
+	{
+		"id": "Updated:",
+		"defaultMessage": "Updated:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#652#47#653#27"
+			}
+		]
+	},
+	{
+		"id": "This model has been",
+		"defaultMessage": "This model has been",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#691#34#692#40"
+			}
+		]
+	},
+	{
+		"id": "This model has been unpublished due to a violation of our",
+		"defaultMessage": "This model has been unpublished due to a violation of our",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#704#42#705#77"
+			}
+		]
+	},
+	{
+		"id": "If you adjust your model to comply with our guidelines, you can request a review from one of our moderators. If you believe this was done in error, you can",
+		"defaultMessage": "If you adjust your model to comply with our guidelines, you can request a review from one of our moderators. If you believe this was done in error, you can",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#710#89#712#89"
+			}
+		]
+	},
+	{
+		"id": "This model is currently being reviewed by our moderators. It will be visible to the community once it has been approved.",
+		"defaultMessage": "This model is currently being reviewed by our moderators. It will be visible to the community once it has been approved.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#727#34#730#18"
+			}
+		]
+	},
+	{
+		"id": "The images on this",
+		"defaultMessage": "The images on this",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#740#34#741#39"
+			}
+		]
+	},
+	{
+		"id": "are inaccurate. Please submit reviews with images so that we can improve this page.",
+		"defaultMessage": "are inaccurate. Please submit reviews with images so that we can improve this page.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#741#81#743#18"
+			}
+		]
+	},
+	{
+		"id": "Add Version",
+		"defaultMessage": "Add Version",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#758#31#758#50"
+			}
+		]
+	},
+	{
+		"id": "Rearrange Versions",
+		"defaultMessage": "Rearrange Versions",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#770#33#770#59"
+			}
+		]
+	},
+	{
+		"id": "Suggested",
+		"defaultMessage": "Suggested",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#814#10#814#26"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/test.tsx#7#38#7#54"
+			}
+		]
+	},
+	{
+		"id": "Suggested Resources",
+		"defaultMessage": "Suggested Resources",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#815#10#815#37"
+			}
+		]
+	},
+	{
+		"id": "Discussion",
+		"defaultMessage": "Discussion",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#825#35#825#45"
+			}
+		]
+	},
+	{
+		"id": "Add Comment",
+		"defaultMessage": "Add Comment",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#834#25#836#24"
+			}
+		]
+	},
+	{
+		"id": "You must be a Supporter Tier member to join this discussion",
+		"defaultMessage": "You must be a Supporter Tier member to join this discussion",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#841#35#841#104"
+			}
+		]
+	},
+	{
+		"id": "Discussion is turned off for this model.",
+		"defaultMessage": "Discussion is turned off for this model.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#865#47#867#16"
+			}
+		]
+	},
+	{
+		"id": "Favorite",
+		"defaultMessage": "Favorite",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/models/[id]/[[...slug]].tsx#!!!#!!!#!!!#!!!"
+			}
+		]
+	},
+	{
+		"id": "Back to",
+		"defaultMessage": "Back to",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/edit.tsx#92#30#92#38"
+			}
+		]
+	},
+	{
+		"id": "Editing model",
+		"defaultMessage": "Editing model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/edit.tsx#97#19#97#32"
+			}
+		]
+	},
+	{
+		"id": "Save",
+		"defaultMessage": "Save",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/edit.tsx#101#66#103#18"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#134#52#136#14"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#379#99#381#16"
+			}
+		]
+	},
+	{
+		"id": "Showing all versions",
+		"defaultMessage": "Showing all versions",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/reviews.tsx#129#6#129#40"
+			}
+		]
+	},
+	{
+		"id": "You must be logged in to leave a review",
+		"defaultMessage": "You must be logged in to leave a review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/reviews.tsx#138#11#138#50"
+			}
+		]
+	},
+	{
+		"id": "Select a model version to leave a review",
+		"defaultMessage": "Select a model version to leave a review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/reviews.tsx#140#11#140#51"
+			}
+		]
+	},
+	{
+		"id": "Leave a review",
+		"defaultMessage": "Leave a review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/reviews.tsx#147#25#147#39"
+			}
+		]
+	},
+	{
+		"id": "Reviews are turned off for this model.",
+		"defaultMessage": "Reviews are turned off for this model.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/reviews.tsx#182#47#184#16"
+			}
+		]
+	},
+	{
+		"id": "You cannot add reviews because you have been muted",
+		"defaultMessage": "You cannot add reviews because you have been muted",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/reviews.tsx#197#60#199#18"
+			}
+		]
+	},
+	{
+		"id": "Excluded from average",
+		"defaultMessage": "Excluded from average",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/models/[id]/reviews.tsx#297#63#297#84"
+			}
+		]
+	},
+	{
+		"id": "Refreshing",
+		"defaultMessage": "Refreshing",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/image-tags.tsx#129#6#129#25"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/moderator/images.tsx#207#6#207#25"
+			}
+		]
+	},
+	{
+		"id": "Grabbing the latest data...",
+		"defaultMessage": "Grabbing the latest data...",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/image-tags.tsx#130#6#130#44"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/moderator/images.tsx#208#6#208#44"
+			}
+		]
+	},
+	{
+		"id": "Select all",
+		"defaultMessage": "Select all",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/image-tags.tsx#164#27#164#45"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#247#27#247#45"
+			}
+		]
+	},
+	{
+		"id": "Clear selection",
+		"defaultMessage": "Clear selection",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/image-tags.tsx#169#27#169#50"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#252#27#252#50"
+			}
+		]
+	},
+	{
+		"id": "Approve selected",
+		"defaultMessage": "Approve selected",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/image-tags.tsx#180#29#180#53"
+			}
+		]
+	},
+	{
+		"id": "Decline selected",
+		"defaultMessage": "Decline selected",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/image-tags.tsx#192#29#192#53"
+			}
+		]
+	},
+	{
+		"id": "Refresh",
+		"defaultMessage": "Refresh",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/image-tags.tsx#198#27#198#42"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#281#27#281#42"
+			}
+		]
+	},
+	{
+		"id": "Tags Needing Review",
+		"defaultMessage": "Tags Needing Review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/image-tags.tsx#207#27#207#46"
+			}
+		]
+	},
+	{
+		"id": "These are images with moderation tags that users have voted to remove.",
+		"defaultMessage": "These are images with moderation tags that users have voted to remove.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/image-tags.tsx#208#31#210#10"
+			}
+		]
+	},
+	{
+		"id": "There are no tags that need review",
+		"defaultMessage": "There are no tags that need review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/image-tags.tsx#231#29#231#73"
+			}
+		]
+	},
+	{
+		"id": "Failed to update",
+		"defaultMessage": "Failed to update",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/images.tsx#141#8#141#33"
+			}
+		]
+	},
+	{
+		"id": "Something went wrong while updating the reports. Please try again later.",
+		"defaultMessage": "Something went wrong while updating the reports. Please try again later.",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/images.tsx#143#8#143#90"
+			}
+		]
+	},
+	{
+		"id": "Actioned",
+		"defaultMessage": "Actioned",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/images.tsx#168#65#168#83"
+			}
+		]
+	},
+	{
+		"id": "Unactioned",
+		"defaultMessage": "Unactioned",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/images.tsx#193#59#193#79"
+			}
+		]
+	},
+	{
+		"id": "Accept",
+		"defaultMessage": "Accept",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#263#29#263#43"
+			}
+		]
+	},
+	{
+		"id": "Delete",
+		"defaultMessage": "Delete",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#275#29#275#43"
+			}
+		]
+	},
+	{
+		"id": "Images Needing Review",
+		"defaultMessage": "Images Needing Review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#291#29#291#50"
+			}
+		]
+	},
+	{
+		"id": "Flagged",
+		"defaultMessage": "Flagged",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/images.tsx#294#21#294#30"
+			}
+		]
+	},
+	{
+		"id": "Reported",
+		"defaultMessage": "Reported",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/images.tsx#294#32#294#42"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#196#8#196#26"
+			}
+		]
+	},
+	{
+		"id": "These are images that have been",
+		"defaultMessage": "These are images that have been",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#299#31#300#43"
+			}
+		]
+	},
+	{
+		"id": "There are no images that need review",
+		"defaultMessage": "There are no images that need review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#328#29#328#75"
+			}
+		]
+	},
+	{
+		"id": "Reported by",
+		"defaultMessage": "Reported by",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#445#52#447#14"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#202#8#202#29"
+			}
+		]
+	},
+	{
+		"id": "Reported for",
+		"defaultMessage": "Reported for",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/images.tsx#455#52#457#14"
+			}
+		]
+	},
+	{
+		"id": "Checkpoint",
+		"defaultMessage": "Checkpoint",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/link-demo.tsx#48#8#48#26"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/moderator/link-demo.tsx#67#8#67#26"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/moderator/link-demo.tsx#89#8#89#26"
+			}
+		]
+	},
+	{
+		"id": "Link your account",
+		"defaultMessage": "Link your account",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#108#57#110#10"
+			}
+		]
+	},
+	{
+		"id": "Time to connect your Stable Diffusion instance to your Civitai Account.",
+		"defaultMessage": "Time to connect your Stable Diffusion instance to your Civitai Account.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#111#39#113#10"
+			}
+		]
+	},
+	{
+		"id": "In your",
+		"defaultMessage": "In your",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#115#23#116#21"
+			}
+		]
+	},
+	{
+		"id": "SD Settings",
+		"defaultMessage": "SD Settings",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#117#52#119#14"
+			}
+		]
+	},
+	{
+		"id": "Civitai",
+		"defaultMessage": "Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#121#52#123#14"
+			}
+		]
+	},
+	{
+		"id": "Paste the Link Key below into the",
+		"defaultMessage": "Paste the Link Key below into the",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#126#23#127#47"
+			}
+		]
+	},
+	{
+		"id": "Link Key",
+		"defaultMessage": "Link Key",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#128#52#130#14"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#141#29#141#37"
+			}
+		]
+	},
+	{
+		"id": "Generating key",
+		"defaultMessage": "Generating key",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#162#24#162#38"
+			}
+		]
+	},
+	{
+		"id": "Connected",
+		"defaultMessage": "Connected",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#169#12#169#21"
+			}
+		]
+	},
+	{
+		"id": "Run Download",
+		"defaultMessage": "Run Download",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#173#48#173#60"
+			}
+		]
+	},
+	{
+		"id": "Remove Downloaded",
+		"defaultMessage": "Remove Downloaded",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#175#51#175#68"
+			}
+		]
+	},
+	{
+		"id": "Clear Activities",
+		"defaultMessage": "Clear Activities",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#176#52#176#68"
+			}
+		]
+	},
+	{
+		"id": "Activities",
+		"defaultMessage": "Activities",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/link-demo.tsx#179#12#179#22"
+			}
+		]
+	},
+	{
+		"id": "Insufficient changes",
+		"defaultMessage": "Insufficient changes",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/models.tsx#39#4#39#41"
+			}
+		]
+	},
+	{
+		"id": "Error declining request",
+		"defaultMessage": "Error declining request",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/models.tsx#73#12#73#44"
+			}
+		]
+	},
+	{
+		"id": "Models Needing Review",
+		"defaultMessage": "Models Needing Review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#87#25#87#46"
+			}
+		]
+	},
+	{
+		"id": "Unpublished models for violating ToS which their owners have request a review",
+		"defaultMessage": "Unpublished models for violating ToS which their owners have request a review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#88#39#90#8"
+			}
+		]
+	},
+	{
+		"id": "Unpublished at:",
+		"defaultMessage": "Unpublished at:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#121#55#122#42"
+			}
+		]
+	},
+	{
+		"id": "Reason initially unpublished:",
+		"defaultMessage": "Reason initially unpublished:",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#127#60#129#26"
+			}
+		]
+	},
+	{
+		"id": "Decline Request",
+		"defaultMessage": "Decline Request",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#142#21#144#20"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#160#69#160#92"
+			}
+		]
+	},
+	{
+		"id": "Total",
+		"defaultMessage": "Total",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#152#20#152#26"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/manage-categories.tsx#296#18#296#24"
+			}
+		]
+	},
+	{
+		"id": "Reason for declining request",
+		"defaultMessage": "Reason for declining request",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#164#16#164#58"
+			}
+		]
+	},
+	{
+		"id": "i.e.: Insufficient changes",
+		"defaultMessage": "i.e.: Insufficient changes",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#166#16#166#56"
+			}
+		]
+	},
+	{
+		"id": "Cancel",
+		"defaultMessage": "Cancel",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#171#72#173#16"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#332#50#332#66"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#343#52#343#68"
+			}
+		]
+	},
+	{
+		"id": "Send",
+		"defaultMessage": "Send",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#174#97#176#16"
+			}
+		]
+	},
+	{
+		"id": "There are no models that need review",
+		"defaultMessage": "There are no models that need review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/models.tsx#184#43#186#12"
+			}
+		]
+	},
+	{
+		"id": "Details",
+		"defaultMessage": "Details",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#135#77#137#12"
+			}
+		]
+	},
+	{
+		"id": "Open reported item",
+		"defaultMessage": "Open reported item",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#138#21#138#47"
+			}
+		]
+	},
+	{
+		"id": "Reason",
+		"defaultMessage": "Reason",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#159#8#159#24"
+			}
+		]
+	},
+	{
+		"id": "Status",
+		"defaultMessage": "Status",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#176#8#176#24"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#362#12#362#26"
+			}
+		]
+	},
+	{
+		"id": "Also reported by",
+		"defaultMessage": "Also reported by",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#214#8#214#34"
+			}
+		]
+	},
+	{
+		"id": "Reports",
+		"defaultMessage": "Reports",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#226#12#226#27"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#230#19#230#26"
+			}
+		]
+	},
+	{
+		"id": "Report updated successfully",
+		"defaultMessage": "Report updated successfully",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#308#8#308#44"
+			}
+		]
+	},
+	{
+		"id": "Internal notes have been saved",
+		"defaultMessage": "Internal notes have been saved",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#309#8#309#49"
+			}
+		]
+	},
+	{
+		"id": "View",
+		"defaultMessage": "View",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#354#32#354#37"
+			}
+		]
+	},
+	{
+		"id": "Use this input to set the status of the report",
+		"defaultMessage": "Use this input to set the status of the report",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#363#12#363#72"
+			}
+		]
+	},
+	{
+		"id": "Internal Notes",
+		"defaultMessage": "Internal Notes",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#372#16#372#38"
+			}
+		]
+	},
+	{
+		"id": "Leave an internal note for future reference (optional)",
+		"defaultMessage": "Leave an internal note for future reference (optional)",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#373#16#373#84"
+			}
+		]
+	},
+	{
+		"id": "Add note...",
+		"defaultMessage": "Add note...",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#374#16#374#41"
+			}
+		]
+	},
+	{
+		"id": "Bad data",
+		"defaultMessage": "Bad data",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#396#39#396#47"
+			}
+		]
+	},
+	{
+		"id": "Image",
+		"defaultMessage": "Image",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#420#19#421#26"
+			}
+		]
+	},
+	{
+		"id": "Source",
+		"defaultMessage": "Source",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#447#6#447#21"
+			}
+		]
+	},
+	{
+		"id": "Claiming User",
+		"defaultMessage": "Claiming User",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#458#6#458#28"
+			}
+		]
+	},
+	{
+		"id": "Failed to set report status",
+		"defaultMessage": "Failed to set report status",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/reports.tsx#511#8#511#44"
+			}
+		]
+	},
+	{
+		"id": "Set Status",
+		"defaultMessage": "Set Status",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/reports.tsx#529#20#529#30"
+			}
+		]
+	},
+	{
+		"id": "Name",
+		"defaultMessage": "Name",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/tags.tsx#151#8#151#22"
+			}
+		]
+	},
+	{
+		"id": "Type",
+		"defaultMessage": "Type",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/tags.tsx#158#8#158#22"
+			}
+		]
+	},
+	{
+		"id": "Stats",
+		"defaultMessage": "Stats",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/tags.tsx#173#8#173#23"
+			}
+		]
+	},
+	{
+		"id": "Labels",
+		"defaultMessage": "Labels",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/moderator/tags.tsx#210#8#210#24"
+			}
+		]
+	},
+	{
+		"id": "Tags",
+		"defaultMessage": "Tags",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/moderator/tags.tsx#256#27#256#31"
+			}
+		]
+	},
+	{
+		"id": "Payment Complete!",
+		"defaultMessage": "Payment Complete!",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/payment/success.tsx#44#29#44#46"
+			}
+		]
+	},
+	{
+		"id": "Thank you! 🎉",
+		"defaultMessage": "Thank you! 🎉",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/payment/success.tsx#58#40#60#8"
+			}
+		]
+	},
+	{
+		"id": "View Models",
+		"defaultMessage": "View Models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/payment/success.tsx#66#93#68#10"
+			}
+		]
+	},
+	{
+		"id": "Edit Profile",
+		"defaultMessage": "Edit Profile",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/payment/success.tsx#75#11#77#10"
+			}
+		]
+	},
+	{
+		"id": "Complete your review",
+		"defaultMessage": "Complete your review",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/[postId]/edit.tsx#28#10#28#38"
+			}
+		]
+	},
+	{
+		"id": "To complete your review give your post a tag and hit publish.",
+		"defaultMessage": "To complete your review give your post a tag and hit publish.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/[postId]/edit.tsx#35#10#35#81"
+			}
+		]
+	},
+	{
+		"id": "You cannot create a post because your account has been muted.",
+		"defaultMessage": "You cannot create a post because your account has been muted.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/create.tsx#116#32#116#93"
+			}
+		]
+	},
+	{
+		"id": "Posting to",
+		"defaultMessage": "Posting to",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/create.tsx#126#45#127#26"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/create.tsx#137#45#138#26"
+			}
+		]
+	},
+	{
+		"id": "Select a resource to ensure that all uploaded images receive correct resource attribution",
+		"defaultMessage": "Select a resource to ensure that all uploaded images receive correct resource attribution",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/create.tsx#147#14#147#117"
+			}
+		]
+	},
+	{
+		"id": "Select a resource",
+		"defaultMessage": "Select a resource",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/create.tsx#148#14#148#45"
+			}
+		]
+	},
+	{
+		"id": "What did you think of this resource?",
+		"defaultMessage": "What did you think of this resource?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/create.tsx#159#29#159#73"
+			}
+		]
+	},
+	{
+		"id": "Back to Categories",
+		"defaultMessage": "Back to Categories",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/feed.tsx#55#35#57#14"
+			}
+		]
+	},
+	{
+		"id": "Discover engaging posts from our growing community on Civitai, featuring unique and creative content generated with custom Stable Diffusion AI resources crafted by talented community members.",
+		"defaultMessage": "Discover engaging posts from our growing community on Civitai, featuring unique and creative content generated with custom Stable Diffusion AI resources crafted by talented community members.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/posts/index.tsx#31#8#31#213"
+			}
+		]
+	},
+	{
+		"id": "Support Us ❤️",
+		"defaultMessage": "Support Us ❤️",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#66#58#68#10"
+			}
+		]
+	},
+	{
+		"id": "Membership",
+		"defaultMessage": "Membership",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#77#77#79#12"
+			}
+		]
+	},
+	{
+		"id": "Donate",
+		"defaultMessage": "Donate",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#80#77#82#12"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#155#30#155#36"
+			}
+		]
+	},
+	{
+		"id": "There are no products to display",
+		"defaultMessage": "There are no products to display",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#93#32#93#72"
+			}
+		]
+	},
+	{
+		"id": "Check back in a little while to see what we have to offer",
+		"defaultMessage": "Check back in a little while to see what we have to offer",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#93#73#95#18"
+			}
+		]
+	},
+	{
+		"id": "Subscribe",
+		"defaultMessage": "Subscribe",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#112#38#112#47"
+			}
+		]
+	},
+	{
+		"id": "Manage your Membership",
+		"defaultMessage": "Manage your Membership",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#124#28#124#50"
+			}
+		]
+	},
+	{
+		"id": "One-time Donation",
+		"defaultMessage": "One-time Donation",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/pricing.tsx#144#84#146#22"
+			}
+		]
+	},
+	{
+		"id": "Unique Donator badge",
+		"defaultMessage": "Unique Donator badge",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/pricing.tsx#150#26#150#57"
+			}
+		]
+	},
+	{
+		"id": "Unique nameplate color",
+		"defaultMessage": "Unique nameplate color",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/pricing.tsx#151#26#151#59"
+			}
+		]
+	},
+	{
+		"id": "Your answer",
+		"defaultMessage": "Your answer",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/questions/[questionId]/[[...questionDetailSlug]].tsx#117#31#117#42"
+			}
+		]
+	},
+	{
+		"id": "Additional Info",
+		"defaultMessage": "Additional Info",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/questions/index.tsx#36#28#36#43"
+			}
+		]
+	},
+	{
+		"id": "Questions | Civitai",
+		"defaultMessage": "Questions | Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/questions/index.tsx#47#12#47#39"
+			}
+		]
+	},
+	{
+		"id": "Questions",
+		"defaultMessage": "Questions",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/questions/index.tsx#51#52#52#23"
+			}
+		]
+	},
+	{
+		"id": "Beta",
+		"defaultMessage": "Beta",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/questions/index.tsx#53#99#55#14"
+			}
+		]
+	},
+	{
+		"id": "Ask question",
+		"defaultMessage": "Ask question",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/questions/index.tsx#59#38#59#50"
+			}
+		]
+	},
+	{
+		"id": "Have a question about stable diffusion, fine tuning models, or just how best to utilize a prompt? Ask it here! Clever people in the community can help you get the most out of your creations! Lost?",
+		"defaultMessage": "Have a question about stable diffusion, fine tuning models, or just how best to utilize a prompt? Ask it here! Clever people in the community can help you get the most out of your creations! Lost?",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/questions/index.tsx#64#18#67#47"
+			}
+		]
+	},
+	{
+		"id": "Supporter Tier",
+		"defaultMessage": "Supporter Tier",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/subscribe/[plan].tsx#8#4#8#26"
+			}
+		]
+	},
+	{
+		"id": "Tier 2",
+		"defaultMessage": "Tier 2",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/subscribe/[plan].tsx#16#4#16#18"
+			}
+		]
+	},
+	{
+		"id": "Order canceled",
+		"defaultMessage": "Order canceled",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/subscribe/[plan].tsx#42#11#42#25"
+			}
+		]
+	},
+	{
+		"id": "Checkout",
+		"defaultMessage": "Checkout",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/subscribe/[plan].tsx#62#62#64#8"
+			}
+		]
+	},
+	{
+		"id": "product Box-root",
+		"defaultMessage": "product Box-root",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/subscribe/[plan].tsx#73#11#73#39"
+			}
+		]
+	},
+	{
+		"id": "description Box-root",
+		"defaultMessage": "description Box-root",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/subscribe/[plan].tsx#75#13#75#45"
+			}
+		]
+	},
+	{
+		"id": "Subscription to",
+		"defaultMessage": "Subscription to",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/subscribe/[plan].tsx#76#14#76#30"
+			}
+		]
+	},
+	{
+		"id": "Manage your billing information",
+		"defaultMessage": "Manage your billing information",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/subscribe/[plan].tsx#81#62#83#8"
+			}
+		]
+	},
+	{
+		"id": "Pilcrow",
+		"defaultMessage": "Pilcrow",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/subscribe/[plan].tsx#103#10#103#22"
+			}
+		]
+	},
+	{
+		"id": "Flow",
+		"defaultMessage": "Flow",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/subscribe/[plan].tsx#99#7#99#16"
+			}
+		]
+	},
+	{
+		"id": "There are no following to show",
+		"defaultMessage": "There are no following to show",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/[list].tsx#120#58#122#28"
+			}
+		]
+	},
+	{
+		"id": "There are no followers to show",
+		"defaultMessage": "There are no followers to show",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/[list].tsx#152#58#154#28"
+			}
+		]
+	},
+	{
+		"id": "There are no hidden users to show",
+		"defaultMessage": "There are no hidden users to show",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/[list].tsx#185#60#187#30"
+			}
+		]
+	},
+	{
+		"id": "Draft",
+		"defaultMessage": "Draft",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/articles.tsx#126#10#126#24"
+			},
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/models.tsx#124#10#124#24"
+			}
+		]
+	},
+	{
+		"id": "My Images",
+		"defaultMessage": "My Images",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#92#4#92#22"
+			}
+		]
+	},
+	{
+		"id": "My Reactions",
+		"defaultMessage": "My Reactions",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#93#4#93#25"
+			}
+		]
+	},
+	{
+		"id": "Unable to mute user, please try again.",
+		"defaultMessage": "Unable to mute user, please try again.",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#295#15#295#66"
+			}
+		]
+	},
+	{
+		"id": "Unable to ban user, please try again.",
+		"defaultMessage": "Unable to ban user, please try again.",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#321#15#321#65"
+			}
+		]
+	},
+	{
+		"id": "Ban User",
+		"defaultMessage": "Ban User",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#330#10#330#27"
+			}
+		]
+	},
+	{
+		"id": "Yes, ban the user",
+		"defaultMessage": "Yes, ban the user",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#332#20#332#48"
+			}
+		]
+	},
+	{
+		"id": "Remove All Content",
+		"defaultMessage": "Remove All Content",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#341#6#341#33"
+			}
+		]
+	},
+	{
+		"id": "Yes, remove all content",
+		"defaultMessage": "Yes, remove all content",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/index.tsx#343#16#343#50"
+			}
+		]
+	},
+	{
+		"id": "Learn more about this awesome creator on Civitai.",
+		"defaultMessage": "Learn more about this awesome creator on Civitai.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#385#10#385#73"
+			}
+		]
+	},
+	{
+		"id": "User",
+		"defaultMessage": "User",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#388#45#388#62"
+			}
+		]
+	},
+	{
+		"id": "Remove all content",
+		"defaultMessage": "Remove all content",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#460#41#462#40"
+			}
+		]
+	},
+	{
+		"id": "Manage model categories",
+		"defaultMessage": "Manage model categories",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#481#39#483#38"
+			}
+		]
+	},
+	{
+		"id": "Average Rating",
+		"defaultMessage": "Average Rating",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#496#32#496#56"
+			}
+		]
+	},
+	{
+		"id": "Uploads",
+		"defaultMessage": "Uploads",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#529#32#529#49"
+			}
+		]
+	},
+	{
+		"id": "Followers",
+		"defaultMessage": "Followers",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#538#32#538#51"
+			}
+		]
+	},
+	{
+		"id": "Favorites",
+		"defaultMessage": "Favorites",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#550#32#550#51"
+			}
+		]
+	},
+	{
+		"id": "Downloads",
+		"defaultMessage": "Downloads",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#561#32#561#51"
+			},
+			{
+				"type": "jsx",
+				"location": "src/pages/user/downloads.tsx#70#25#70#34"
+			}
+		]
+	},
+	{
+		"id": "Images",
+		"defaultMessage": "Images",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#593#79#595#20"
+			}
+		]
+	},
+	{
+		"id": "Posts",
+		"defaultMessage": "Posts",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#596#78#598#20"
+			}
+		]
+	},
+	{
+		"id": "Models",
+		"defaultMessage": "Models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#599#77#601#20"
+			}
+		]
+	},
+	{
+		"id": "Articles",
+		"defaultMessage": "Articles",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/index.tsx#603#86#605#22"
+			}
+		]
+	},
+	{
+		"id": "Successfully updated models category",
+		"defaultMessage": "Successfully updated models category",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/manage-categories.tsx#132#14#132#61"
+			}
+		]
+	},
+	{
+		"id": "Failed to update models category",
+		"defaultMessage": "Failed to update models category",
+		"source": [
+			{
+				"type": "text",
+				"location": "src/pages/user/[username]/manage-categories.tsx#138#14#138#55"
+			}
+		]
+	},
+	{
+		"id": "N/A",
+		"defaultMessage": "N/A",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/manage-categories.tsx#203#100#205#18"
+			}
+		]
+	},
+	{
+		"id": "Model Category Manager",
+		"defaultMessage": "Model Category Manager",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/manage-categories.tsx#236#38#236#60"
+			}
+		]
+	},
+	{
+		"id": "Clear Selection",
+		"defaultMessage": "Clear Selection",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/manage-categories.tsx#245#25#247#24"
+			}
+		]
+	},
+	{
+		"id": "Set Category",
+		"defaultMessage": "Set Category",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/manage-categories.tsx#255#27#256#41"
+			}
+		]
+	},
+	{
+		"id": "Loading...",
+		"defaultMessage": "Loading...",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/manage-categories.tsx#262#51#262#61"
+			}
+		]
+	},
+	{
+		"id": "You must select at least one model",
+		"defaultMessage": "You must select at least one model",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/manage-categories.tsx#266#51#266#85"
+			}
+		]
+	},
+	{
+		"id": "You have no draft models",
+		"defaultMessage": "You have no draft models",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/manage-categories.tsx#286#33#286#67"
+			}
+		]
+	},
+	{
+		"id": "Metric Period Mode",
+		"defaultMessage": "Metric Period Mode",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/models.tsx#44#69#44#95"
+			}
+		]
+	},
+	{
+		"id": "Since you are viewing your own profile, we show all of your creations and the period filter instead only adjusts the timeframe for the metrics that are displayed.",
+		"defaultMessage": "Since you are viewing your own profile, we show all of your creations and the period filter instead only adjusts the timeframe for the metrics that are displayed.",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/[username]/models.tsx#44#96#47#10"
+			}
+		]
+	},
+	{
+		"id": "Manage your Account - Civitai",
+		"defaultMessage": "Manage your Account - Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/account.tsx#25#12#25#49"
+			}
+		]
+	},
+	{
+		"id": "Manage Account",
+		"defaultMessage": "Manage Account",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/account.tsx#30#29#30#43"
+			}
+		]
+	},
+	{
+		"id": "Take a moment to review your account information and preferences to personalize your experience on the site",
+		"defaultMessage": "Take a moment to review your account information and preferences to personalize your experience on the site",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/account.tsx#31#43#34#12"
+			}
+		]
+	},
+	{
+		"id": "Clear History",
+		"defaultMessage": "Clear History",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/downloads.tsx#78#11#80#10"
+			}
+		]
+	},
+	{
+		"id": "No downloads in your history",
+		"defaultMessage": "No downloads in your history",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/downloads.tsx#107#41#109#10"
+			}
+		]
+	},
+	{
+		"id": "Notifications | Civitai",
+		"defaultMessage": "Notifications | Civitai",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/notifications.tsx#59#12#59#43"
+			}
+		]
+	},
+	{
+		"id": "Notifications",
+		"defaultMessage": "Notifications",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/notifications.tsx#64#31#64#44"
+			}
+		]
+	},
+	{
+		"id": "Mark all as read",
+		"defaultMessage": "Mark all as read",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/notifications.tsx#66#25#66#49"
+			}
+		]
+	},
+	{
+		"id": "Notification settings",
+		"defaultMessage": "Notification settings",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/notifications.tsx#71#25#71#54"
+			}
+		]
+	},
+	{
+		"id": "All caught up! Nothing to see here",
+		"defaultMessage": "All caught up! Nothing to see here",
+		"source": [
+			{
+				"type": "jsx",
+				"location": "src/pages/user/notifications.tsx#104#22#104#56"
+			}
+		]
+	}
+]

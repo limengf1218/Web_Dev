@@ -1,0 +1,21 @@
+version: '3.9'
+services:
+  clickhouse: 
+    image: clickhouse/clickhouse-server:head-alpine
+    ports:
+      - 8123:8123 # ClickHouse HTTP port
+      - 9500:9000 # ClickHouse TCP port 
+      - 9501:9009
+    volumes:
+      - ./clickhouse/data:/var/lib/clickhouse
+    environment:
+      - CLICKHOUSE_CONFIG=/etc/clickhouse-server/config.xml
+    restart: unless-stopped
+  mikomiko:
+    image: mikomiko
+    container_name: mikomiko
+    build:
+      context: ./
+      target: runner
+    command: pm2-runtime node -- server.js
+    network_mode: host

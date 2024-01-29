@@ -1,0 +1,25 @@
+name: Docker Deploy
+
+on:
+  # push:
+  #   branches:
+  #     - test-new
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Deploy Workflow 
+        uses: convictional/trigger-workflow-and-wait@v1.6.1
+        with:
+          owner: MikoWorld
+          repo: MikoMiko-deploy
+          workflow_file_name: deploy.yml
+          github_token: ${{ secrets.MIKO_DEPLOY }}
+          ref: main
+          # client_payload: |
+          #   { "environment": "${{ github.ref_name == 'release' &&  'prod' || 'dev' }}", "branch": "${{ github.ref_name }}" }
+          wait_workflow: true

@@ -1,0 +1,87 @@
+[
+  {
+    "id": 9999,
+    "name": "character",
+    "models": null
+  },
+  {
+    "id": 3673,
+    "name": "style",
+    "models": null
+  },
+  {
+    "id": 5188,
+    "name": "celebrity",
+    "models": null
+  },
+  {
+    "id": 1237,
+    "name": "base model",
+    "models": null
+  },
+  {
+    "id": 195,
+    "name": "concept",
+    "models": null
+  },
+  {
+    "id": 5193,
+    "name": "clothing",
+    "models": null
+  },
+  {
+    "id": 2270,
+    "name": "poses",
+    "models": null
+  },
+  {
+    "id": 701,
+    "name": "action",
+    "models": null
+  },
+  {
+    "id": 5399,
+    "name": "background",
+    "models": null
+  },
+  {
+    "id": 35,
+    "name": "objects",
+    "models": null
+  },
+  {
+    "id": 111758,
+    "name": "vehicle",
+    "models": null
+  },
+  {
+    "id": 111768,
+    "name": "animal",
+    "models": null
+  },
+  {
+    "id": 1170,
+    "name": "buildings",
+    "models": null
+  },
+  {
+    "id": 111830,
+    "name": "tool",
+    "models": null
+  },
+  {
+    "id": 3921,
+    "name": "guide",
+    "models": null
+  },
+  {
+    "id": 110989,
+    "name": "assets",
+    "models": null
+  },
+  {
+    "id": 4096,
+    "name": "anime",
+    "models": null
+  }
+]
